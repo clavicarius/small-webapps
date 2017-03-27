@@ -13,7 +13,6 @@ git clone git@github.com:claustrarius/small-webapps.git
 | Projekt | README |
 |---------|--------|
 | countdown | [countdown/README.md](countdown/README.md) |
-| LENP | [LENP/README.md](LENP/README.md) |
 | simpleTSClient | [simpleTSClient/README.md](simpleTSClient/README.md) |
 
 ## Hinweise
