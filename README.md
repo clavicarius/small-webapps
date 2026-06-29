@@ -14,6 +14,8 @@ git clone git@github.com:claustrarius/small-webapps.git
 |---------|--------|
 | countdown | [countdown/README.md](countdown/README.md) |
 | simpleTSClient | [simpleTSClient/README.md](simpleTSClient/README.md) |
+| httpStaticServer | [httpStaticServer/README.md](httpStaticServer/README.md) |
+
 
 ## Hinweise
 
