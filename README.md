@@ -5,7 +5,7 @@ Sammlung kleiner Webanwendungen und Hilfsprogramme für die interne Verwendung.
 ## Repository
 
 ```bash
-git clone git@github.com:claustrarius/small-webapps.git
+git clone git@github.com:clavicarius/small-webapps.git
 ```
 
 ## Projekte
