@@ -2,6 +2,8 @@
 
 Sammlung kleiner Webanwendungen und Hilfsprogramme für die interne Verwendung.
 
+![logo](./small-webapps.png)
+
 ## Repository
 
 ```bash
